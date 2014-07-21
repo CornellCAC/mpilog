@@ -1,7 +1,6 @@
 #!/bin/bash
 #SBATCH -p development
-#SBATCH -A AdminStampede
-##SBATCH -A your_account_name_goes_here
+#SBATCH -A your_account_name_goes_here
 #SBATCH -J mpi4py-demo
 #SBATCH -o mpi4py-demo.o%j
 #SBATCH -n 16
