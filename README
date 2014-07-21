@@ -1,5 +1,5 @@
 This is a demonstration of using the Python mpi4py. The batch file
-is specific to the Texas Advanced Computing Center's Lonestar machine.
+is specific to the Texas Advanced Computing Center's Stampede machine.
 
 The actual mpi4py sample does very little and is taken from the
 mpi4py documentation. More interesting is the logging.
